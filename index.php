@@ -84,7 +84,7 @@
             Beberapa tempat pariwisata yang terkenal dan biasa dikunjungi oleh para wisatawan lokal dan mancanegara
           </p>
           <section>
-            <h3>Taman Mini Indonesia Indah (TMII)</h3>
+            <h3>1.Taman Mini Indonesia Indah (TMII)</h3>
             <img
               src="assetsIndex/image/wisata/TMII.jpg"
               class="featured-image"
@@ -100,7 +100,7 @@
               berbagai sarana rekreasi ini menjadikan TMIII sebagai salah satu kawasan wisata terkemuka di ibu kota.
             </p>
           </section>
-            <h3>Pantai Ancol </h3>
+            <h3>2.Pantai Ancol </h3>
             <img
               src="assetsIndex/image/wisata/PantaiAncol.jpg"
               class="featured-image"
@@ -113,7 +113,7 @@
               wisata. Wisata pantai ini merupakan BUMD penghasil Pendapatan Asli Daerah kedua terbesar bagi provinsi DKI Jakarta.
             </p>
           </section>
-            <h3>Dunia Fantasi (DUFAN)</h3>
+            <h3>3.Dunia Fantasi (DUFAN)</h3>
             <img
               src="assetsIndex/image/wisata/dufan.png"
               class="featured-image"
@@ -128,7 +128,7 @@
               Roda, Free Wifi, Charger Point, Toilet bersih disetiap kawasan dan wahana, Baby Care Room, Mushola dan Masjid, P3K & Ambulance.
           </p>
           <section>
-            <h3>Kepulauan Seribu</h3>
+            <h3>4.Kepulauan Seribu</h3>
             <img
               src="assetsIndex/image/wisata/P-Sribu.jpg"
               class="featured-image"
@@ -154,7 +154,7 @@
               Berikut makanan khas DKI Jakarta yang terkenal:
             </p>
           </section>
-          <h3>Kerak Telor</h3>
+          <h3>1.Kerak Telor</h3>
           <img
             src="assetsIndex/image/jajanan/keraktelor.jpe"
             class="featured-image"
@@ -174,7 +174,7 @@
             Bahkan kerak telor juga telah banyak ditemui di berbagai daerah di luar Jakarta.
           </p>
         </section>
-        <h3>Asinan Betawi</h3>
+        <h3>2.Asinan Betawi</h3>
         <img
           src="assetsIndex/image/jajanan/asinanbetawi.jpg"
           class="featured-image"
@@ -194,7 +194,7 @@
           melainkan segar dan cocok disantap ketika siang hari.
         </p>
       </section>
-      <h3>Soto Betawi</h3>
+      <h3>3.Soto Betawi</h3>
       <img
         src="assetsIndex/image/jajanan/sotobetawi.jpg"
         class="featured-image"
@@ -243,15 +243,26 @@
               <tr>
                 <th>Luas Total</th>
                 <td>: 7.659,02 km<sup>2</sup></td>
-	      </tr>
+	            </tr>
               <tr>
                 <th>Bahasa Daerah</th>
                 <td>: Betawi</td>
               </tr>
-	      </tr>
               <tr>
                 <th>Pelat Kendaraan</th>
                 <td>: B</td>
+              </tr>
+              <tr>
+                <th>Gubernur</th>
+                <td>: Heru Budi Hartono (PLT)</td>
+              </tr>
+              <tr>
+                <th>Populasi</th>
+                <td>: 10.562.088 Jiwa</td>
+              </tr>
+              <tr>
+                <th>Situs Resmi</th>
+                <td><a href="https://jakarta.go.id/" target="_blank">: jakarta.go.id</a></td>
               </tr>
             </table>
           </section>
@@ -261,8 +272,7 @@
     <footer>
       <p>@Project Pembelajaran Website Naufal
       </p>
-        <a href="https://linktr.ee/Irawanaufal29" target="_blank">Naufal Maulana Al-Ghifari Irawan
-        </a>
+        <a href="https://linktr.ee/Irawanaufal29" target="_blank">Naufal Maulana Al-Ghifari Irawan</a>
     </footer>
     <div id="live-pop-up">
       <button onclick="popup()">Hubungi Kami</button>
