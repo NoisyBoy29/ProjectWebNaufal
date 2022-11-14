@@ -50,6 +50,7 @@ nav a {
   font-weight: 400;
   text-decoration: none;
   color: white;
+  padding-left: 28px;
 }
 
 nav a:hover {
