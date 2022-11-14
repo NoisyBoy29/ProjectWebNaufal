@@ -117,7 +117,7 @@ footer {
   background-color: transparent;
   border-radius: 8px;
   text-align: center;
-  font: 'Quicksand';
+  font: Quicksand;
 }
 
 button{
@@ -126,7 +126,7 @@ button{
   font-size: 20px;
   border-color: transparent;
   border-radius: 5px;
-  font: 'Quicksand';
+  font: Quicksand;
 }
 
 
