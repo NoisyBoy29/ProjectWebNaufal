@@ -13,7 +13,7 @@
       <div class="jumbotron">
         <h1>Jakarta</h1>
         <p>
-          Salah satu kota metropolitan terbesar di Pulau Jawa, dan dulu menjadi
+          Salah satu kota metropolitan terbesar di Pulau Jawa dan menjadi
           ibu kota negara Indonesia.
         </p>
       </div>
