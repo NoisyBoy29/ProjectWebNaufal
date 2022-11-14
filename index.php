@@ -122,7 +122,7 @@
           <p>
               Dunia Fantasi atau yang lebih populer dengan sebutan Dufan, pertama kali dibuka untuk umum pada 29 Agustus 1985 dan merupakan theme 
               park pertama yang dikembangkan oleh Perseroan dan telah memiliki sertifikat ISO 9001:2015 sejak Februari 2017. Selain menjadi pusat 
-              hiburan outdoor, Dufan juga merupakan kawasan edutainment fisikia terbesar di Indonesia yang memanjakan pengunjung dengan Fantasi 
+              hiburan outdoor, Dufan juga merupakan kawasan edutainment fisika terbesar di Indonesia yang memanjakan pengunjung dengan Fantasi 
               Keliling Dunia, melalui wahana permainan berteknologi tinggi, yang terbagi dalam 9 (Sembilan) kawasan yaitu Indonesia, Jakarta, Asia, 
               Eropa, Amerika, Yunani, Hikayat, Kalila dan Fantasy Lights. Fasilitas umum untuk pengunjung : Gratis pinjam Stroller Bayi dan Kursi 
               Roda, Free Wifi, Charger Point, Toilet bersih disetiap kawasan dan wahana, Baby Care Room, Mushola dan Masjid, P3K & Ambulance.
@@ -188,7 +188,7 @@
         </p>
 
         <p>
-          Asinan ditaburi kacang goreng dan bisa disantap dengan kerupuk kuning berbentuk seperti mi yang melingkar, 
+          Asinan ditaburi kacang goreng dan bisa disantap dengan kerupuk kuning berbentuk seperti mie yang melingkar, 
           biasanya kerupuk ini diremuk dan ditaburkan di atas asinan. 
           Meskipun namanya asinan, jangan sampai salah mengira karena makanan ini sama sekali tidak terasa asin 
           melainkan segar dan cocok disantap ketika siang hari.
@@ -204,7 +204,7 @@
         Soto merupakan salah satu jenis makanan yang dapat ditemui di berbagai daerah di Indonesia. 
         Setiap sajian soto di suatu daerah pasti memiliki cita rasanya sendiri. 
         Salah satu yang paling dikenal adalah Soto Betawi. 
-        Soto Betawi merupakan salah satu makanan khas DKI Jakarta legendaris yang wajib di icip saat berkunjung ke Jakarta.
+        Soto Betawi merupakan salah satu makanan khas DKI Jakarta legendaris yang wajib di cicip saat berkunjung ke Jakarta.
       </p>  
 
       <p>
