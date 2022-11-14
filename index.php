@@ -259,7 +259,7 @@
       </aside>
     </main>
     <footer>
-      <p>@Project Pemebelajaran Website Naufal
+      <p>@Project Pembelajaran Website Naufal
       </p>
         <a href="https://linktr.ee/Irawanaufal29" target="_blank">Naufal Maulana Al-Ghifari Irawan
         </a>
@@ -284,11 +284,11 @@
             } 
           </script> 
       </form>
-    </div>
-    <script>
-      function popup(){
-        document.getElementById("live-pop-up").classList.toggle("active")
-      }
-    </script>
+      </div>
+          <script>
+            function popup(){
+              document.getElementById("live-pop-up").classList.toggle("active")
+            }
+          </script>
   </body>
 </html>
