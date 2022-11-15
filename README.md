@@ -1,9 +1,11 @@
 # ProjectWebNaufal
 Project Naufal Maulana Al-Ghifari Irawan - 50420956 - KD20061
+
 Judul :"Website penyedia informasi mengenai daerah DKI Jakarta"
 
 Menggunakan : HTML, CSS, JavaScript, PHP.
-Text Editor : Visual Studio Code
+
+Text Editor : Visual Studio Code.
 
 Deskripsi singkat :
 Website ini saya kerjakan secara bertahap karena saya ingin mengimplementasikan materi yang sudah
