@@ -18,7 +18,7 @@ $sql = "INSERT INTO data_pengunjung (Nama,Email,Kota,NoHP,Tanggal,Pesan)
  
 if ($conn->query($sql) === TRUE) {
     echo "Respon anda sudah terkirim";
-	header ("location:index.php");
+    echo "<script>window.location='https://irawanaufal.my.id'</script>";
 } else {
     echo "Error: " . $sql . "<br>" . $conn->error;
 }
